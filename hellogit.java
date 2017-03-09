@@ -1,6 +1,7 @@
-public class hellogit {
-public static void main(String[] args)
+public class hellogit 
 {
-System.out.println(Helo git)
-}
+	public static void main(String[] args)
+	{
+	System.out.println("Hello git");
+	}
 }
